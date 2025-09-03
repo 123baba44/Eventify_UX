@@ -42,18 +42,15 @@ Eventify provides a **centralized and intuitive platform** where:
 
 ## 🎨 Designs & Prototype
 
-- 🔗 [Low-Fidelity Wireframes](#)
-- 🔗 [High-Fidelity Designs](#)
-- 🔗 [Interactive Prototype](#)
-
-_(Replace `#` with your actual Figma/Google Drive links)_
+- 🔗 [Low-Fidelity Wireframes](https://www.figma.com/design/cB0tm9AL8CptHF7OQrIaan/Untitled?node-id=0-1&p=f)
+- 🔗 [High-Fidelity Designs](https://www.figma.com/design/IwkWKDhMDkkjpfKpw31nPJ/High-Fidelity-Eventify?node-id=0-1&p=f)
+- 🔗 [Interactive Prototype](https://www.figma.com/proto/IwkWKDhMDkkjpfKpw31nPJ/High-Fidelity-Eventify?node-id=24-498&p=f&t=NHRpasunbnkTZTns-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=125%3A127)
 
 ---
 
 ## 📐 Tools Used
 
 - Figma
-- FigJam
 - User Research & Testing
 
 ---
@@ -63,7 +60,3 @@ _(Replace `#` with your actual Figma/Google Drive links)_
 Eventify simplifies the event lifecycle by delivering **engaging user experiences** for both organizers and attendees. The project demonstrates skills in **UX research, wireframing, prototyping, and visual design**.
 
 ---
-
-## 👤 Author
-
-**Priyansh Lathigara**
